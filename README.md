@@ -1,7 +1,7 @@
 # Hi there, I'm Austin 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&width=500&lines=Final+year+student+at+Universitas+Hasanuddin;Mobile%2C+AI%2FML%2C+Cybersecurity+enthusiast;Always+learning+new+technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&width=600&lines=Final+year+student+at+Universitas+Hasanuddin;Mobile%2C+AI%2FML%2C+Cybersecurity+enthusiast;Always+learning+new+technologies" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -80,7 +80,7 @@ const austin = {
 
 ## 🎯 What I'm up to
 
-- 📱 Building cross-platform mobile applications with **Flutter**
+- 📱 Building native and cross-platform mobile applications
 - 🔐 Exploring **cybersecurity** concepts and implementations  
 - 🤖 Diving deeper into **AI/ML** with Python
 - 🚀 Always open to exciting **job opportunities** and **freelance projects**
