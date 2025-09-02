@@ -1,8 +1,9 @@
 # Hi there, I'm Austin 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&width=600&lines=Final+year+student+at+Universitas+Hasanuddin;Mobile%2C+AI%2FML%2C+Cybersecurity+enthusiast;Always+learning+new+technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D6ED17&center=true&width=600&lines=Final+year+student+at+Universitas+Hasanuddin;Mobile%2C+AI%2FML%2C+Cybersecurity+enthusiast;Always+learning+new+technologies" alt="Typing SVG" />
 </div>
+<div align="center">
 
 <div align="center">
   
