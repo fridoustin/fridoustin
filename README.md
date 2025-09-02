@@ -1,12 +1,12 @@
 # Hi there, I'm Austin 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&width=435&lines=Final+Year+Student+At+Universitas+Hasanuddin;Mobile+AI%2FML+%26+Cybersecurity+Enthusiast;Always+learning+new+technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&width=500&lines=Final+year+student+at+Universitas+Hasanuddin;Mobile%2C+AI%2FML%2C+Cybersecurity+enthusiast;Always+learning+new+technologies" alt="Typing SVG" />
 </div>
 
 <div align="center">
   
-  [![](https://visitcount.itsvg.in/api?id=fridolinaustin&icon=0&color=0)](https://visitcount.itsvg.in)
+  [![](https://visitcount.itsvg.in/api?id=fridoustin&icon=0&color=0)](https://visitcount.itsvg.in)
   
 </div>
 
@@ -62,7 +62,7 @@ const austin = {
 ### 📱 pantauApp
 *A comprehensive monitoring application built with modern mobile technologies*
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=fridolinaustin&repo=pantauApp&theme=tokyonight)](https://github.com/fridoustin/pantauApp)
+[![pantauApp](https://img.shields.io/badge/🔗_View_Project-pantauApp-blue?style=for-the-badge)](https://github.com/fridoustin/pantauApp)
 
 </div>
 
@@ -80,7 +80,7 @@ const austin = {
 
 ## 🎯 What I'm up to
 
-- 📱 Building native and cross-platform mobile applications
+- 📱 Building cross-platform mobile applications with **Flutter**
 - 🔐 Exploring **cybersecurity** concepts and implementations  
 - 🤖 Diving deeper into **AI/ML** with Python
 - 🚀 Always open to exciting **job opportunities** and **freelance projects**
@@ -90,7 +90,7 @@ const austin = {
 <div align="center">
   
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fridolinaustin16@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fridolinaustin)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fridoustin)
 
 </div>
 
@@ -105,5 +105,7 @@ const austin = {
 ---
 
 <div align="center">
-  <img src="https://github.com/fridoustin/fridoustin/blob/output/snake.svg" alt="Snake animation" />
+  
+*Thanks for visiting! ⭐ Star some repositories if you find them interesting!*
+  
 </div>
