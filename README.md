@@ -1,7 +1,7 @@
 # Hi there, I'm Austin 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&width=435&lines=Mobile+Developer+from+Makassar;AI%2FML+%26+Cybersecurity+Enthusiast;Always+learning+new+technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&width=435&lines=Final+Year+Student+At+Universitas+Hasanuddin;Mobile+AI%2FML+%26+Cybersecurity+Enthusiast;Always+learning+new+technologies" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -62,7 +62,7 @@ const austin = {
 ### 📱 pantauApp
 *A comprehensive monitoring application built with modern mobile technologies*
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=fridolinaustin&repo=pantauApp&theme=tokyonight)](https://github.com/fridolinaustin/pantauApp)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=fridolinaustin&repo=pantauApp&theme=tokyonight)](https://github.com/fridoustin/pantauApp)
 
 </div>
 
@@ -70,17 +70,17 @@ const austin = {
 
 <div align="center">
   
-![Austin's GitHub stats](https://github-readme-stats.vercel.app/api?username=fridolinaustin&show_icons=true&theme=tokyonight&hide_border=true)
+![Austin's GitHub stats](https://github-readme-stats.vercel.app/api?username=fridoustin&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fridolinaustin&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fridoustin&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fridolinaustin&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fridoustin&theme=tokyonight&hide_border=true)
 
 </div>
 
 ## 🎯 What I'm up to
 
-- 📱 Building cross-platform mobile applications with **Flutter**
+- 📱 Building native and cross-platform mobile applications
 - 🔐 Exploring **cybersecurity** concepts and implementations  
 - 🤖 Diving deeper into **AI/ML** with Python
 - 🚀 Always open to exciting **job opportunities** and **freelance projects**
@@ -105,5 +105,5 @@ const austin = {
 ---
 
 <div align="center">
-  <img src="https://github.com/fridolinaustin/fridolinaustin/blob/output/snake.svg" alt="Snake animation" />
+  <img src="https://github.com/fridoustin/fridoustin/blob/output/snake.svg" alt="Snake animation" />
 </div>
