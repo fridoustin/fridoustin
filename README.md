@@ -16,7 +16,7 @@
 ```typescript
 const austin = {
     name: "Fridolin Austin Sulistyo",
-    location: "Makassar, Sulawesi Selatan 🌴",
+    location: "Makassar, Sulawesi Selatan",
     role: "Mobile Developer",
     interests: ["Mobile Development", "AI/ML", "Cybersecurity"],
     currentFocus: "Building innovative mobile applications",
